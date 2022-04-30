@@ -7,3 +7,4 @@ to push branch code for the first time git push --set-upstream origin develop
 To delete a branch git branch -d <branchname>
 To force delete without adding/commiting git branch -D <branchname>
 To push the changes git push origin --delete <branch>
+To create branch under commit git branch <branch>
