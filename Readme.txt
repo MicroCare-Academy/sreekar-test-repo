@@ -9,3 +9,4 @@ post this we have to push the git to remote through git push --set-upstream orig
 this step if for git configuration check with jenkins
 jenkins webhook configuration test step
 idels
+edit
