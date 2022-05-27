@@ -8,10 +8,4 @@ git commit will create the snapshot of staging files
 post this we have to push the git to remote through git push --set-upstream origin master
 this step if for git configuration check with jenkins
 jenkins webhook configuration test step
-idels
-edit
-finally done 
-test with local tunnel 2
-final check
-new change
-new chandngew;flkqe;
+
